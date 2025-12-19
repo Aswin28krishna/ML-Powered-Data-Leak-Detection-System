@@ -1,4 +1,3 @@
-# ML-Powered-Data-Leak-Detection-System-ML-Streamlit-
 # ML-Based Data Leak Detection System
 
 An AI-powered system to detect data leaks by comparing a master database with a current database.
